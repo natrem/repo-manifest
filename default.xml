@@ -1,0 +1,5 @@
+<remote name="github" fetch="https://github.com" />
+<default revision="refs/heads/master" remote="github" sync-j="4"/>
+<project name="natrem/idlj" remote="github" path="idlj"/>
+<project name="natrem/filereader" remote="github" path="reader"/>
+
